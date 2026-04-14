@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rishabh%20Mishra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Scalable%20Systems&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rishabh%20Mishra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Scalable%20Systems&descAlignY=58&descColor=a78bfa&animation=fadeIn&strokeWidth=0" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -10,11 +10,8 @@
 
 <br/><br/>
 
-<!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=RishabhMishra1909&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-mishra-325076361)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishra.rishabh.66178@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishabhMishra1909)
 
 </div>
 
@@ -49,27 +46,36 @@ class RishabhMishra:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI / ML
+### 🤖 AI / ML — Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧩 Core Concepts
 ![DSA](https://img.shields.io/badge/DSA-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-0EA5E9?style=for-the-badge&logo=abstract&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-059669?style=for-the-badge&logo=blueprint&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-059669?style=for-the-badge&logo=buffer&logoColor=white)
 ![Computer Networks](https://img.shields.io/badge/Networks-F59E0B?style=for-the-badge&logo=cisco&logoColor=white)
 ![Operating Systems](https://img.shields.io/badge/OS-6D28D9?style=for-the-badge&logo=linux&logoColor=white)
+![Fog/Edge Computing](https://img.shields.io/badge/Fog%2FEdge_Computing-0EA5E9?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
@@ -158,7 +164,7 @@ I'm always open to collaborating on **research**, **open-source AI projects**, o
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn&strokeWidth=0" />
 
 </div>
 
